@@ -10,7 +10,7 @@ We live in a world where **personal data** is commodified without consent. **Gen
 It automates the process of **scraping your 23andMe data** and **storing it securely** in your Google Drive.  
 More than just a tool — it’s a **digital rebellion** against the exploitation of your most intimate information.
 
-### **Consent is about agency** — This tool is about giving **you** control.
+### 🩸 Consent without agency is just compliance.  — This tool is about giving **you** control.
 
 ---
 
